@@ -18,6 +18,8 @@ creator:
     - http://en.wikipedia.org/wiki/Raul_Brand%C3%A3o
     - http://pt.wikipedia.org/wiki/Raul_Brand%C3%A3o
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35762#Mem-rias
 gutenberg_issued: '2011-04-03'
 gutenberg_type: Text
 identifiers:
