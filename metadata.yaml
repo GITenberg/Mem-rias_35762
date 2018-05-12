@@ -1,0 +1,35 @@
+_repo: Mem-rias_35762
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brandão, Raul
+    aliases:
+    - Brandão, Raúl
+    - Brandao, Raul Germano
+    - Brandão, Raul Germano
+    birthdate: 1867
+    deathdate: 1930
+    gutenberg_agent_id: '9556'
+    url: http://www.gutenberg.org/2009/agents/9556
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Raul_Brand%C3%A3o
+    - http://pt.wikipedia.org/wiki/Raul_Brand%C3%A3o
+description: ''
+gutenberg_issued: '2011-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35762'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, Portuguese -- 19th century -- Biography'
+- !lcsh 'Brandão, Raul, 1867-1930'
+- !lcc 'PQ'
+- !lcsh 'Authors, Portuguese -- 20th century -- Biography'
+title: Memórias
+url: http://www.gutenberg.org/ebooks/35762
